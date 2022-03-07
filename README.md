@@ -1,6 +1,7 @@
-# HACKNITRR-ALIEN_HEART
+# HACKNITRR-ALIEN_HEART  (WINNER OF 1ST PRIZE OF HACKNITRR22 organised by E-CELL on N.I.T. RAIPUR)
 ## We pitched-perfect the IDEA of No-Touch Revolution that we are in love with and are passionate about before the judges in all 3 Rounds , with the same intensity and excitement 
 ### To materialize our Idea I built a Desktop Native Computer Vision Application in python, using OpenCv and Mediapipe as dependencies.
+#I looked after Software Development and its integration with FLASK backend and my friend Chahat Biswas managed the frontend part.
 
 ## Our 1st Product was Air-Dribble-Canvas that allows user to draw on Computer Screen with the gestures of his fingers much like drawing in air in real time. It can also solves a major problem of the century i.e E-Waste generation as we are visualizing a new revolution that will eliminate any sort of hardware dependency required to write on screen.
 ## Our 2nd product was SMILE-DETECTOR , that is a Facial gesture recognition software which we will upgrade so that it can be used to solve problems related to mental health as constant sad expression can be then inferred as depression and anxiety.
