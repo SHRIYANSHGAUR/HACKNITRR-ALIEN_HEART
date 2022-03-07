@@ -21,3 +21,6 @@ we incorporated the suggestions of our Profound Judges during each round of eval
 
 # Website to access the app:
 https://lnkd.in/g5ArWmwS
+
+# LIVE PRESENTATION IN FINAL ROUND : ours was the 1st one ->
+https://www.youtube.com/watch?v=Z9_YMPPkOjs&feature=youtu.be
