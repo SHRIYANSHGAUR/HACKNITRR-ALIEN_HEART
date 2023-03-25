@@ -1,5 +1,8 @@
 # HACKNITRR-ALIEN_HEART  (WINNER OF 1ST PRIZE OF HACKNITRR22 organised by E-CELL on N.I.T. RAIPUR)
 ## We pitched-perfect the IDEA of No-Touch Revolution that we are in love with and are passionate about before the judges in all 3 Rounds , with the same intensity and excitement 
+# Website to access the app:
+https://shriyanshgaur.github.io/HACKNITRR-ALIEN_HEART-FRONTEND/
+
 ### To materialize our Idea I built a Desktop Native Computer Vision Application in python, using OpenCv and Mediapipe as dependencies.
 #I looked after Software Development and its integration with FLASK backend and my friend Chahat Biswas managed the frontend part.
 
@@ -19,8 +22,7 @@ we incorporated the suggestions of our Profound Judges during each round of eval
 # Future Scope:
 ## 1)Add more gestures to facial gesture recognition app, and adding Z-index feature. 2) Making 3-D images using Air-Dribble Canavs like solidworks etc as asked by Kuldeep P. sir , Saket Kumar and Siddharth Shah sir our Judges of FINAL Round.
 
-# Website to access the app:
-https://lnkd.in/g5ArWmwS
+
 
 # LIVE PRESENTATION IN FINAL ROUND : ours was the 1st one ->
 https://www.youtube.com/watch?v=Z9_YMPPkOjs&feature=youtu.be
